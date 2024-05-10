@@ -183,50 +183,50 @@ const movies = [
         ]
     }
 
-    // {
+    {
    
-    //     id: "9",
-    //     name: "Sembi",
-    //     image: "https://th.bing.com/th/id/OIP.mJY1YBKIl8WwLPjhxzamdgAAAA?w=115&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
-    //     screen: "2D IMAX",
-    //     language: "Tamil,telungu,malaylam",
-    //     certificate: "U/A",
-    //     rating: "8.5",
-    //     theatre: [
-    //         "PVR Cinemas A/C",
-    //         "Sathyam Cinemas",
-    //         "Lotus Cinemas",
-    //         "I Cinemas"
-    //     ],
-    //     timings: [
-    //         "7:00 AM",
-    //         "10:30 AM",
-    //         "2:15 PM",
-    //         "6:00 PM",
-    //         "9:30 PM"
-    //     ]
-    // },
-    // {
+        id: "9",
+        name: "Sembi",
+        image: "https://th.bing.com/th/id/OIP.mJY1YBKIl8WwLPjhxzamdgAAAA?w=115&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        screen: "2D IMAX",
+        language: "Tamil,telungu,malaylam",
+        certificate: "U/A",
+        rating: "8.5",
+        theatre: [
+            "PVR Cinemas A/C",
+            "Sathyam Cinemas",
+            "Lotus Cinemas",
+            "I Cinemas"
+        ],
+        timings: [
+            "7:00 AM",
+            "10:30 AM",
+            "2:15 PM",
+            "6:00 PM",
+            "9:30 PM"
+        ]
+    },
+    {
        
-    //     id: "10",
-    //     name: "Vaathi",
-    //     image: "https://th.bing.com/th/id/OIP.U5q7HFNPeTkkPbps5JBEHwHaEK?w=290&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
-    //     screen: "2D IMAX",
-    //     language: "Tamil,telungu,malaylam",
-    //     certificate: "U/A",
-    //     rating: "8.6",
-    //     theatre: [
-    //         "PVR Cinemas A/C",
-    //         "Sathyam Cinemas",
-    //         "Lotus Cinemas",
-    //         "I Cinemas"
-    //     ],
-    //     timings: [
-    //         "7:00 AM",
-    //         "10:30 AM",
-    //         "2:15 PM",
-    //         "6:00 PM",
-    //         "9:30 PM"
-    //     ]
-    // }
+        id: "10",
+        name: "Vaathi",
+        image: "https://th.bing.com/th/id/OIP.U5q7HFNPeTkkPbps5JBEHwHaEK?w=290&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        screen: "2D IMAX",
+        language: "Tamil,telungu,malaylam",
+        certificate: "U/A",
+        rating: "8.6",
+        theatre: [
+            "PVR Cinemas A/C",
+            "Sathyam Cinemas",
+            "Lotus Cinemas",
+            "I Cinemas"
+        ],
+        timings: [
+            "7:00 AM",
+            "10:30 AM",
+            "2:15 PM",
+            "6:00 PM",
+            "9:30 PM"
+        ]
+    }
 ]
